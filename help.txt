@@ -1,0 +1,220 @@
+Eco Enviro 
+Created: 2/08/09
+By: Hayley Crook
+Contact Info: http://themeforest.net/user/dtbaker
+
+Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email, via my user page contact form. Thanks so much! Also it would be great if you could rate this file on themeforest.
+
+--TABLE OF CONTENTS--
+
+A) File Structure
+B) HTML Structure & Key parts to edit
+C) CSS Files
+D) Google Maps 
+E) Forms
+F) PNG Fix
+G) Photoshop Instructions
+H) File credits
+
+------------------------------------------------------------------------------
+
+A) File Structure:
+
+/images 		- The images used in the constructed website
+/js				- The javascript files are used for the menu dropdown & PNG fix in Internet Explorer 6
+about.html		- plain inside page
+blog.html		- blog layout example
+contact.html	- Design for the contact page
+formsubmit.php	- The file that processes the contact form and emails you.
+index.html		- The main layout template
+services.html	- Design for the services page
+sitemap.php		- A dynamic page that automatically shows all the pages in your website.
+styles.css		- All the css for the website layout
+thankyou.html	- the page displayed after the contact form is submitted
+
+------------------------------------------------------------------------------
+
+B) HTML Structure:
+
+This theme is a fixed layout with two columns. All of the information within the main content area is nested within a div with an id of "left_column". The sidebar's content is within a div with an id of "right_column". 
+
+The right_column can stay the same throughout the website or add new content for each page.
+
+- Logo: 
+The current logo size is 284px wide by 78 pixels high. Your logo should be a transparent PNG or GIF. 
+If you would like to resize the logo, open the index.html on line 31, change the width="284" height="78" to match your new image dimentions. You also need to update the "styles.css" file. On line 41 and 42 change the width:284px; height:78px; to match your new image dimentions.
+
+- Contact Details in the header:
+The header_contact.png image size is 244px wide by 109 pixels high. Your logo should be a transparent PNG or GIF. 
+If you would like to resize the header_contact.png, open the index.html on line 30, change the  width="244" height="109" to match your new image dimensions. You also need to update the "styles.css" file. On line 47 and 48 change the width:244px; height:109px; to match your new image dimensions.
+
+- Menu Change:
+The menu is built using a list styled with css. To change the names of the buttons simply edit what is in the <li></li>.
+For example: change Home to what you want to appear on the button, change the link from index.html to the file name of the page you are linking to.
+ <li><a href="index.html">Home</a></li>
+ 
+- To add a new button simply add a new <li></li> like this:
+
+  <li><a href="sitemap.php">Site Map</a></li>
+  <li><a href="#">News</a></li>
+  <li><a href="newlink.html">New Link</a></li>
+     
+- To change the font, color, size of the menu:
+Open the "Styles.css" file
+The styling is all done through the link on each button: ul#navigation a {
+On line 72 you will find the following styles, see comments in /* */
+
+ul#navigation a, ul#navigation a:link, ul#navigation a:visited {
+	float:left; /*makes the text sit beside each other not down the page*/
+	color:#ffffff; /*menu color normal*/
+	padding:10px 13px 11px 13px; /*space around and inbetween the buttons, top, right, bottom, left*/
+	height:18px;
+	text-decoration:none; /*no underline*/
+	text-transform:uppercase; /*all in capitals*/
+	font:14px "Trebuchet MS", Arial; /*menu text size and font*/
+	letter-spacing:1px; /*space out the letters, remove if you want it normal*/
+	background-image:url(images/menu_divider.gif); /*the bar between each button*/
+	background-position:right center;
+	background-repeat:no-repeat;
+}
+Line 85 controls the style when you mouse over the link.
+
+- Menu Drop Downs:
+The menu drop downs work on the same concept as the main menu a list. Its especially a list within a list.
+
+See comments below:
+
+<li><a href="services.html">Services</a> <!-- this is the main menu button, notice you do not close the </li> here -->
+          <ul class="second-level"> <!--start a new list with the style: class="second-level"-->
+            <li> <a href="#">Other Service 1</a></li>
+            <li> <a href="#">Other Service 2</a></li>
+            <li> <a href="#">Other Service 3</a></li>
+            <li> <a href="#">Other Service 4</a></li>
+            <li> <a href="#">Other Service 5</a></li>
+            <li> <a href="#">Other Service 6</a></li>
+          </ul> <!-- close the new list-->
+        </li> <!-- close the services <li>-->
+
+You can have as many of these as you need, just copy & paste the above to make a new button with a dropdown.
+To have no dropdowns just remove the <ul> down to the </ul>
+The dropdowns styles are controlled in the "Styles.css" file on line 113.
+
+-Latest News:
+This section of the website on the right is a div box named class="news_item". It has a padding and a border on the bottom, the style can be found on line 241 in Styles.css.
+
+The title is styled with <p class="news_title">, you can set the color on line 229 in Styles.css
+
+- Footer:
+The footer has a main div with an ID of #footer, inside are  2 floating divs .right and .left, there is a left box and right box for your information.
+To change the size and color go to line 169 in Styles.css.
+
+
+------------------------------------------------------------------------------
+
+C) CSS
+The CSS for this template is all in one file named styles.css. Each section of the website is sperated by a comment in this order:
+
+/*Template Layout*/ This has the body, link colors, main menu, columns and footer
+/*General Content*/ Headings, horizontal rules
+/*side bar*/ the news styles, quote button, and testimonial
+/*Home Page*/ The 3 services boxes
+/*Services Page*/ the tick list and table style
+/*Contact Page*/ map and contact form
+/*Blog Page*/ the layout for the blog boxes
+
+The site structure is pretty straight forward, comments are throughout the CSS file to help you know what each part does.
+The main sections of the design are in an id="wrapper", this holds the site together and centers it on the page.
+The id="header" includes the logo, contact info.
+The main menu is within id="header_menu"
+The main content is separated into 2 columns: #left_column and #right_column
+And the id="footer" is outside the id wrapper.
+
+------------------------------------------------------------------------------
+
+D) Google Map:
+On the contact page there is a Google Map you will need to edit.
+
+1. first Go to http://code.google.com/apis/maps/signup.html to get an API key for your website. 
+An API key is a really long string of random characters. 
+
+You will get something that looks like this:
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=YOUR_API_KEY_HERE"
+      type="text/javascript"></script>
+
+2. Open your contact page
+3. scroll down to line number 79 and paste the API you received from google after the text "key="
+4. scroll down to line number 89 and change the address below to the one you want the marker to point to 
+5. scroll down to line number 101 and change the address below to the one you want displayed in the popup
+
+Thats it, the map wont display until you upload your website to the URL you submitted to google in step 1.
+
+More help here: http://dtbaker.com.au/random-bits/how-to-setup-simple-google-maps-on-your-website.html
+
+-Configuring the form:
+I have included a PHP formsubmit script that will process your form for you, you will need to edit this file:
+
+1. open formsubmit.php
+2. on line 5 give your form a subject
+3. on line 8 type the email the form will be sent to
+4. on line 13 type the name of your thank you page
+5. on line 17 these are the fields that are required before the form can be submitted
+6. on line 65 you have the option on pasting or including your header/design to make this page look like the rest of the website.
+7. on line 75 look for this comment  <!--insert your footer here--> and page the footer/design to make this page look like the rest of the website.
+
+Thats it, upload and test. NOTE: This will only work if PHP is enabled on your website hosting
+
+------------------------------------------------------------------------------
+
+E) Site Map
+
+A PHP site map has been included, this page automatically displays every page in your website as a list. It's great for search engines and helps users navigate your website.
+
+On line 66 type the extensions you want to display, like .html or .htm or .php, this only supports 1 type of file extension. 
+
+You need to replace the header design on the page up to <!--start site map code--> and insert the footer after <!--end site map code-->
+
+------------------------------------------------------------------------------
+
+F) PNG FIX:
+by: http://homepage.ntlworld.com/bobosola
+
+------------------------------------------------------------------------------
+
+G) Photoshop Instructions
+
+The Photoshop documents have the slices required to build the layout, simply make the change in photoshop, hide any unnecessary layers and then file>"save for web".
+
+There is 1 photoshop file:
+Eco Enviro.psd
+
+The photoshop files contains clearly named folders for each part of the website.
+
+The contact info box can be removed/moved if you need more room for your menu buttons.
+
+
+------------------------------------------------------------------------------
+H) File Credits:
+
+--Stock Graphics:
+
+
+Paper texture: http://milokey.deviantart.com/art/Texture-Recycled-Paper-65768878
+leaf: http://www.bittbox.com/freebies/random-free-vectors-part-12-foliage-ii/
+Icon set: http://www.iconeden.com/icon/milky-a-free-vector-iconset.html
+blog photos: are taken by me
+about us photo: http://www.sxc.hu/browse.phtml?f=view&id=1075787
+
+--Effects:
+
+The icons have a hue change to make the green match, simply change the hue & saturation, "hue" to -12 for icons.
+
+--Fonts:
+
+arial -  standard windows font
+Trebuchet MS - standard windows font
+Diavlo -  http://www.urbanfonts.com/fonts/Diavlo.htm
+
+------------------------------------------------------------------------------
+
+Thanks again, any questions feel free to contact me on http://themeforest.net/user/dtbaker
+ 
