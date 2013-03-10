@@ -2,7 +2,7 @@
 // subject of the email to be sent.
 // set the default subject here
 // if there is a <input type="hidden" name="subject" value="My Custom Subject"> this will be used instead
-$domain = "vcs.net.nz"
+$domain = "vcs.net.nz";
 $default_subject = "Enquiry from" . $domain; 
 // the to, cc, and bcc email addresses.
 // seperate them by commas if you want to use multiple
