@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Resource Consents West Coast - VCS</title>
+<title>VCS Resource Consents West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
 <meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
@@ -33,7 +33,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
       <div id="content_bg">
         <div id="left_column">
           <!--start main text-->
-          <h1>Resource Consents West Coast</h1>
+          <h1>VCS Resource Consents West Coast</h1>
           <p>
             VCS will manage the consent process for you, as well as any ongoing monitoring. Whether you’re running a large-scale mining operation or a family dairy farm, VCS can help you negotiate the red tape and bureaucracy, letting you get on with what you do best.<br><br>
             Consent and compliance issues can be a headache. We understand the importance of getting it right the first time – this is where we can help.
@@ -47,7 +47,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
                   Do you find it difficult to deal with local and government agencies?<br>
                   Let us take the hassle out of dealing with Compliance Officers and other governance agency officials.
                 </p>
-              <p><a href="" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
             </div>
             <hr class="clear" />
           </div>
@@ -62,7 +62,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
                 <li>Farm dairy effluent systems</li>
                 <li>Land development</li>
               </ul>
-              <p><a href="#" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
             </div>
             <hr class="clear" />
           </div>
@@ -75,13 +75,13 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
               <p>
                 VCS has extensive experience in monitoring a large range of activities on the West Coast. These include coal and gold mines, dairy farms, subdivisions, land development, forestry and a lot more.
               </p>
-              <p><a href="#" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
             </div>
             <hr class="clear" />
           </div>
           <div align="center">
             <!--end box 3-->
-            <p><a href="services.html"><img src="images/button_services.gif" alt="View all our services" border="0" /></a></p>
+            <p><a href="compliance-advice-and-other-services"><img src="images/button_services.gif" alt="View all our services" border="0" /></a></p>
           </div>
         </div>
         <!--end left column-->

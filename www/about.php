@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>About</title>
+<title>About VCS West Coast Resource Consents</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
 <meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
@@ -33,7 +33,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
       <div id="content_bg">
         <div id="left_column">
           <!--start main text-->
-        <h1>About Us</h1>
+        <h1>About VCS West Coast Resource Consents</h1>
         <p><img src="images/photo.jpg" alt="Photo" width="250" height="166" border="0" align="right" class="image_border" />
           VCS is a West Coast business specialising in Pest Control and Environmental Management. Our team has a long history of dealing with RMA consenting issues, and have developed strong working relationships with most agencies and interest groups up and down the West Coast.<br><br>
           Consultation is a speciality of VCS and we pride ourselves on developing innovative solutions that allow everyone to enjoy the benefits of the West Coast’s natural resources.</p>

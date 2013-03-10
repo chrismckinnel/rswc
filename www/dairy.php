@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Services</title>
+<title>Dairy - Effluent Managament</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
 <meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
@@ -33,7 +33,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
       <div id="content_bg">
         <div id="left_column">
           <!--start main text-->
-        <h1>Dairy</h1>
+        <h1>Dairy - Effluent Management</h1>
         <p>Nullam condimentum tellus quis neque. Quisque id nibh eget elit bibendum aliquet. Phasellus sodales vulputate ligula. Curabitur nulla. Nam quis felis. Curabitur placerat nisl sit amet orci. Nunc vitae nunc. Ut blandit viverra mi. Aliquam et urna. Aliquam ultrices pharetra lectus. </p>
         <h2>H2 Check List<br />
         </h2>
