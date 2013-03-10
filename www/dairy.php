@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Thank You</title>
+<title>Services</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
 <meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
@@ -33,15 +33,57 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
       <div id="content_bg">
         <div id="left_column">
           <!--start main text-->
-
-<h1>Thank You</h1>
-<p>Your information has been submitted successfully.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-        
-   </div>
+        <h1>Dairy</h1>
+        <p>Nullam condimentum tellus quis neque. Quisque id nibh eget elit bibendum aliquet. Phasellus sodales vulputate ligula. Curabitur nulla. Nam quis felis. Curabitur placerat nisl sit amet orci. Nunc vitae nunc. Ut blandit viverra mi. Aliquam et urna. Aliquam ultrices pharetra lectus. </p>
+        <h2>H2 Check List<br />
+        </h2>
+        <ul class="ticklist">
+          <li>Vestibulum aliquet</li>
+          <li>Enim sit amet bibendum venenatis</li>
+          <li>Dolor risus ornare orci, ac mollis </li>
+          <li>Lacus lectus dictum tortor</li>
+          <li>Nunc vestibulum augue a metus.</li>
+        </ul>
+        <h3>H3 Table Example</h3>
+        <table width="600" border="0" cellpadding="0" cellspacing="0" class="service_table">
+          <tr>
+            <th scope="col">Nunc</th>
+            <th scope="col">vestibulum</th>
+            <th scope="col">augue</th>
+            <th scope="col">a metus</th>
+            <th scope="col"> lampers</th>
+          </tr>
+          <tr class="row1">
+            <td align="center">Nunc</td>
+            <td align="center">vestibulum</td>
+            <td align="center">augue</td>
+            <td align="center">a metus</td>
+            <td align="center"> lampers</td>
+          </tr>
+          <tr class="row2">
+            <td align="center">Nunc</td>
+            <td align="center">vestibulum</td>
+            <td align="center">augue</td>
+            <td align="center">a metus</td>
+            <td align="center"> lampers</td>
+          </tr>
+          <tr class="row1">
+            <td align="center">Nunc</td>
+            <td align="center">vestibulum</td>
+            <td align="center">augue</td>
+            <td align="center">a metus</td>
+            <td align="center"> lampers</td>
+          </tr>
+          <tr class="row2">
+            <td align="center">Nunc</td>
+            <td align="center">vestibulum</td>
+            <td align="center">augue</td>
+            <td align="center">a metus</td>
+            <td align="center"> lampers</td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+     </div>
         <!--end left column-->
       <?php
         include('sidebar.html');

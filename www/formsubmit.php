@@ -2,15 +2,16 @@
 // subject of the email to be sent.
 // set the default subject here
 // if there is a <input type="hidden" name="subject" value="My Custom Subject"> this will be used instead
-$default_subject = "Contact Form"; 
+$domain = "vcs.net.nz"
+$default_subject = "Enquiry from" . $domain; 
 // the to, cc, and bcc email addresses.
 // seperate them by commas if you want to use multiple
-$to="hayley@blueteddy.com.au"; //change this to your email
+$to="chrismckinnel@gmail.com"; //change this to your email
 //$cc="info@youremail.com";
 //$bcc="info@youremail.com";
 // the default redirect.
 // if you set <input type="hidden" name="redirect" value="foo.htm"> it will override this
-$redirect = "thankyou.html";
+$redirect = "thankyou.php";
 // required form fields, if any of these are missing then the
 // form will not submit and an error message will be shown.
 // set <input type="hidden" name="required" value="field1,field2,field3"> to override these
@@ -18,7 +19,7 @@ $required = array(
     "name",
     "email",
 );
-$email_title = "Contact Form";
+$email_title = "Enquiry from " . $domain;
 // these are the fields to ignore in the email that comes through
 $ignorefields = array(
     "submit",
@@ -44,7 +45,7 @@ function f_safe_string($s){
 if($_REQUEST['name'] && $_REQUEST['email']){
     $from = f_safe_string($_REQUEST['name']) . " <".f_safe_string($_REQUEST['email']).">";
 }else{
-    $from="Contact Website <info@".$_SERVER['HTTP_HOST'].">";
+    $from="Notification Enquiry <info@" . $domain . ">";
 }
 // this part checks for required fields:
 $missing = array();

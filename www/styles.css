@@ -83,7 +83,7 @@ ul#navigation a, ul#navigation a:link, ul#navigation a:visited {
 	background-repeat:no-repeat;
 }
 ul#navigation li.hover a, ul#navigation li:hover a, ul#navigation a.active, ul#navigation a:hover {
-	background-color:#d3bd96; /*color behind the menu text*/
+	background-color:#daeafb; /*color behind the menu text*/
 	color:#5a564b; /*color of text on mouse over*/
 }
 /*--drop down menu second-level - this is optional--*/
@@ -294,7 +294,7 @@ hr {
 }
 .testimonial {
 	width:260px; /*280px minus padding*/
-	height:138px; /*160px minus padding*/
+	height:300px; /*160px minus padding*/
 	padding:14px 10px 8px 10px;
 	background:url(images/testimonial_bg.jpg) no-repeat top;
 	font-size:11px;
@@ -386,6 +386,7 @@ ul.ticklist li {
 	height:225px;
 	float:right;
 }
+
 .contact_title {
 	color:#616101;
 	font-weight:bold;
