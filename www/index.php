@@ -5,7 +5,7 @@
 <title>VCS Resource Consents West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
-<meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
+<meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
 <style type="text/css"> 
@@ -47,7 +47,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
                   Do you find it difficult to deal with local and government agencies?<br>
                   Let us take the hassle out of dealing with Compliance Officers and other governance agency officials.
                 </p>
-              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
             </div>
             <hr class="clear" />
           </div>
@@ -62,7 +62,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
                 <li>Farm dairy effluent systems</li>
                 <li>Land development</li>
               </ul>
-              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
             </div>
             <hr class="clear" />
           </div>
@@ -75,7 +75,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
               <p>
                 VCS has extensive experience in monitoring a large range of activities on the West Coast. These include coal and gold mines, dairy farms, subdivisions, land development, forestry and a lot more.
               </p>
-              <p><a href="compliance-advice-and-other-services" class="size11">Read More »</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
             </div>
             <hr class="clear" />
           </div>

@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Compliance Advice and Other Services</title>
+<title>Compliance Advice and Other Services on the West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
-<meta name="description" content="business description for search engines" />
-<meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
+<meta name="description" content="VCS can provide compliance advice, environmental monitoring, water sampling and other services to farmers, miners and land developers on the West Coast." />
+<meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
 <style type="text/css"> 
@@ -34,54 +34,64 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
         <div id="left_column">
           <!--start main text-->
         <h1>Compliance Advice and Other Services</h1>
-        <p>Nullam condimentum tellus quis neque. Quisque id nibh eget elit bibendum aliquet. Phasellus sodales vulputate ligula. Curabitur nulla. Nam quis felis. Curabitur placerat nisl sit amet orci. Nunc vitae nunc. Ut blandit viverra mi. Aliquam et urna. Aliquam ultrices pharetra lectus. </p>
-        <h2>H2 Check List<br />
-        </h2>
+        
+        <h2>Incident Response</h2>
+        <p>
+          At VCS we know things don’t run smoothly all the time.  Unexpected issues can occur on site, 
+          causing compliance issues.  That’s why we offer our incident response service.
+        </p>
+        <p>
+          Let us develop remedial and mitigation options that show local authorities you’re taking things 
+          seriously.  We can also deal with local agencies on site for you.
+        </p>
+        <p>
+          VCS has experience in managing large-scale incidents, reducing the likelihood of enforcement 
+          action from the Council.  Let us minimise the risk of notices, fines, and prosecution action 
+          that could seriously affect you and your company should the worst occur.  It’s just another 
+          way we help to reduce the stress in an already stressful situation. Contact us for further 
+          information.
+        </p>
+ 
+        <h2>Environmental Monitoring</h2>
+        <p>
+          VCS has extensive experience in monitoring a large range of activities on the West Coast.  
+          These include coal and gold mines, dairy farms, subdivisions, land development,  forestry and a lot more.
+        </p>
+        <p>
+          We know the value of keeping local authorities on your side.  To help with this, we can 
+          provide evidence that clearly demonstrates that you are complying with the environmental 
+          standards you have been set.
+        </p>
         <ul class="ticklist">
-          <li>Vestibulum aliquet</li>
-          <li>Enim sit amet bibendum venenatis</li>
-          <li>Dolor risus ornare orci, ac mollis </li>
-          <li>Lacus lectus dictum tortor</li>
-          <li>Nunc vestibulum augue a metus.</li>
+          <li>Water sampling</li>
+          <li>Macro-invertebrate sampling</li>
+          <li>Baseline surveys</li>
+          <li>Bio-diversity surveys</li>
         </ul>
-        <h3>H3 Table Example</h3>
-        <table width="600" border="0" cellpadding="0" cellspacing="0" class="service_table">
-          <tr>
-            <th scope="col">Nunc</th>
-            <th scope="col">vestibulum</th>
-            <th scope="col">augue</th>
-            <th scope="col">a metus</th>
-            <th scope="col"> lampers</th>
-          </tr>
-          <tr class="row1">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row2">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row1">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row2">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-        </table>
+        <p> 
+        <a href="contact-vcs-environmental-services">Contact us for further information.</a>
+        <h2>Compliance Support</h2>
+        <p> 
+          Do you find it difficult to deal with local and government agencies? Let us take the hassle 
+          out of dealing with Compliance Officers and other governance agency officials.
+        </p>
+        <p>
+          We can run the inspections for you,  providing a comprehensive pre-inspection report that enables 
+          you to deal with issues before they become a problem.
+        </p>
+ 
+        <p>
+          We offer services to assist with:<br>
+          <ul class="ticklist">
+            <li>Compliance inspections</li>
+            <li>Monitoring requirements</li>
+            <li>Annual work programmes</li>
+            <li>Consent variations</li>
+            <li>Access arrangement issues</li>
+            <li>Concessions</li>
+            <li>Boundary issues</li>
+          </ul>
+        <a href="contact-vcs-environmental-services">Contact us for further information.</a>
         <p>&nbsp;</p>
      </div>
         <!--end left column-->

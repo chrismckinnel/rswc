@@ -17,6 +17,9 @@
     RewriteCond %{REQUEST_URI} dairy-effluent-management$
     RewriteRule (.*) dairy.php
 
+    RewriteCond %{REQUEST_URI} mining-investment-opportunities$
+    RewriteRule (.*) investments.php
+
     RewriteCond %{REQUEST_URI} compliance-advice-and-other-services$
     RewriteRule (.*) services.php
 

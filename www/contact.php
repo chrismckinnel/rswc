@@ -5,7 +5,7 @@
 <title>Contact VCS Environmental Management Services</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <meta name="description" content="business description for search engines" />
-<meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
+<meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
 <style type="text/css"> 

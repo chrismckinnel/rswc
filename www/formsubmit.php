@@ -6,7 +6,7 @@ $domain = "vcs.net.nz";
 $default_subject = "Enquiry from" . $domain; 
 // the to, cc, and bcc email addresses.
 // seperate them by commas if you want to use multiple
-$to="chrismckinnel@gmail.com"; //change this to your email
+$to="info@vcs.net.nz"; //change this to your email
 //$cc="info@youremail.com";
 //$bcc="info@youremail.com";
 // the default redirect.

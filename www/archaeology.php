@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Archaeology on the West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
-<meta name="description" content="business description for search engines" />
-<meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
+<meta name="description" content="VCS provides archaeological advice on archaeology surveys, archaeological authority applications and on-going archaeology reporting on the West Coast." />
+<meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
 <style type="text/css"> 
@@ -34,15 +34,29 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
         <div id="left_column">
           <!--start main text-->
         <h1>Archaeology on the West Coast</h1>
-        <p>With a recently appointed archaeologist added to our team we can offer assistance with archaeological surveys, preparing archaeological assessments, management plans and gaining authorities from Historic Places Trust. We can offer support to ensure that our clients stay within their authority and all necessary requirement are taken care of.</p>
-        <h2>Archaeological services we offer:<br />
-        </h2>
-        <ul class="ticklist">
-          <li>Archaeological surveys</li>
-          <li>Archaeological assessments</li>
-          <li>Historic Places Trust Authorities</li>
-          <li>Management Plans</li>
-        </ul>
+        <p>
+          VCS employs the only West Coast based NZHPT approved Archaeologist.
+        </p>
+        <p>
+          We can undertake archaeological surveys associated with resource consent applications and gain 
+          affected party approval from <a href="http://www.historic.org.nz/">Historic Places Trust</a> 
+          for your applications.
+        </p>
+        <p>
+          We can also provide management plans and on-going archaeology advice. VCS is an industry 
+          focused organisation and maintains close ties with industry groups and aims to provide the 
+          best advice, first time to consent applicants and permit holders to gain the best possible 
+          result through the consent process.</p>
+        </p>
+        <h1>Earthquake Strengthening</h1>
+        <p>
+          With Councils increasing requirements around earthquake prone buildings in some instances 
+          owners of historic buildings are going to require archaeological advice when undertaking 
+          strengthening work.
+        </p>
+        <p>
+          <a href="contact-vcs-environmental-management-services">Contact us</a> for further details around building specific work.
+        </p>
         <p>&nbsp;</p>
      </div>
         <!--end left column-->

@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Gold Mining Permits and Investment</title>
+<title>Gold Mining Permits and Investment on the West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
-<meta name="description" content="business description for search engines" />
-<meta name="keywords" content="keyword, keyword, keyword, keyword, keyword" />
+<meta name="description" content="VCS provides Resource Consent and Compliance Advice on Gold Mining Permits, Concessions, Access, Bonding and Rehabilitation Planning on the West Coast." />
+<meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
 <style type="text/css"> 
@@ -34,54 +34,29 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
         <div id="left_column">
           <!--start main text-->
         <h1>Gold Mining Permits and Investments</h1>
-        <p>Nullam condimentum tellus quis neque. Quisque id nibh eget elit bibendum aliquet. Phasellus sodales vulputate ligula. Curabitur nulla. Nam quis felis. Curabitur placerat nisl sit amet orci. Nunc vitae nunc. Ut blandit viverra mi. Aliquam et urna. Aliquam ultrices pharetra lectus. </p>
-        <h2>H2 Check List<br />
-        </h2>
+        <p><img src="images/mining.jpg" alt="Photo" width="267" height="400" border="0" align="right" class="image_border" />
+        <p>At VCS we specialise in all things mining. We can help you with the following services:</p>
         <ul class="ticklist">
-          <li>Vestibulum aliquet</li>
-          <li>Enim sit amet bibendum venenatis</li>
-          <li>Dolor risus ornare orci, ac mollis </li>
-          <li>Lacus lectus dictum tortor</li>
-          <li>Nunc vestibulum augue a metus.</li>
+          <li>Minerals Permit Applications</li>
+          <li>Landowner Access Negotiation</li>
+          <li>Resource Consent Applications</li>
+          <li>Department of Conservation Access Arrangements</li>
+          <li>Minerals Permits Reporting Requirements</li>
         </ul>
-        <h3>H3 Table Example</h3>
-        <table width="600" border="0" cellpadding="0" cellspacing="0" class="service_table">
-          <tr>
-            <th scope="col">Nunc</th>
-            <th scope="col">vestibulum</th>
-            <th scope="col">augue</th>
-            <th scope="col">a metus</th>
-            <th scope="col"> lampers</th>
-          </tr>
-          <tr class="row1">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row2">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row1">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-          <tr class="row2">
-            <td align="center">Nunc</td>
-            <td align="center">vestibulum</td>
-            <td align="center">augue</td>
-            <td align="center">a metus</td>
-            <td align="center"> lampers</td>
-          </tr>
-        </table>
+        <p>
+          Our services don’t stop there, with many resource consents and other permissions there is a need 
+          for on-going monitoring or management plans. At VCS we can ensure your obligations are met with 
+          the least possible fuss.
+        </p>
+        <p>
+          We understand that starting out in mining things can be tough financially, for this reason we 
+          focus on providing cost effective, quality advice that aims to reduce the potential delays in 
+          the consenting process.
+        </p>  
+        <p>
+          For further information <a href="contact-vcs-environmental-management-services">contact us</a> 
+          for an estimate on cost and time involved with your project.
+        </p> 
         <p>&nbsp;</p>
      </div>
         <!--end left column-->

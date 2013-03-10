@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>About VCS West Coast Resource Consents</title>
+<title>Mining Investment Opportunities on the West Coast</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
-<meta name="description" content="business description for search engines" />
+<meta name="description" content="VCS can provide information regarding mining investment opportunities on the West Coast." />
 <meta name="keywords" content="Resource consent, west coast, compliance, environmental management" />
 <!--below is the code to display the menu properly in ie6-->
 <!--[if IE 6]>
@@ -33,12 +33,27 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
       <div id="content_bg">
         <div id="left_column">
           <!--start main text-->
-        <h1>About VCS West Coast Resource Consents</h1>
-        <p><img src="images/photo.jpg" alt="Photo" width="250" height="166" border="0" align="right" class="image_border" />
-          VCS is a West Coast business specialising in Pest Control and Environmental Management. Our team has a long history of dealing with RMA consenting issues, and have developed strong working relationships with most agencies and interest groups up and down the West Coast.<br><br>
-          Consultation is a speciality of VCS and we pride ourselves on developing innovative solutions that allow everyone to enjoy the benefits of the West Coast’s natural resources.</p>
+        <h1>Investment Opportunities on the West Coast</h1>
+        <p>
+          At VCS we are in contact with a large number of permit holders, mining contractors and landowners.
         </p>
-      </div>
+        <p>
+          There are a number of investment opportunities within the gold mining industry at present. 
+          Should you be interested in purchasing an existing mining permit, entering the industry as a 
+          mining contractor or just speaking to us about opportunities please contact us to discuss what 
+          is currently available.
+        </p>
+        
+        <h2>Information for Permit Holders</h2>
+        <p>
+          At VCS we understand that the financial outlay involved with gaining the appropriate permissions 
+          to allow mining to commence can be substantial. We are able to provide our services at a negotiated 
+          rate when undertaking work at a joint venture level. So if you have a mining permit sitting idle 
+          and you would like to progress you project contact <a href="mailto:pm@vcs.net.nz">Phil McKinnel</a>
+          or <a href="mailto:tomo@vcs.net.nz">Tom Overton</a> to discuss the specifics of this opportunity.
+        </p>
+        <p>&nbsp;</p>
+     </div>
         <!--end left column-->
       <?php
         include('sidebar.html');
@@ -65,4 +80,4 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
 
 </script>
 </body>
-</html>
+</html>
