@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /~cmckinnel/vcs/www
+
+    RewriteCond %{REQUEST_URI} gold-mining-investments$
+    RewriteRule (.*) mining.php
+
+    RewriteCond %{REQUEST_URI} environmental-management-services$
+    RewriteRule (.*) about.php
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . index.php [L]
+</IfModule>
