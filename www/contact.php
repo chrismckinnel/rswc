@@ -70,7 +70,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
 			       if (!point) {
 			         alert(address + " not found");
 			       } else {
-			         map.setCenter(point, 15);
+			         map.setCenter(point, 13);
 			         var marker = new GMarker(point);
 			         map.addOverlay(marker);
 					  // change the address below to the one you want displayed in the popup

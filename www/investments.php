@@ -49,7 +49,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           At VCS we understand that the financial outlay involved with gaining the appropriate permissions 
           to allow mining to commence can be substantial. We are able to provide our services at a negotiated 
           rate when undertaking work at a joint venture level. So if you have a mining permit sitting idle 
-          and you would like to progress you project contact <a href="mailto:pm@vcs.net.nz">Phil McKinnel</a>
+          and you would like to progress your project contact <a href="mailto:pm@vcs.net.nz">Phil McKinnel</a>
           or <a href="mailto:tomo@vcs.net.nz">Tom Overton</a> to discuss the specifics of this opportunity.
         </p>
         <p>&nbsp;</p>

@@ -1,0 +1,32 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /~vcs29/new/v1
+
+    RewriteCond %{REQUEST_URI} gold-mining-permits-and-investments$
+    RewriteRule (.*) mining.php
+
+    RewriteCond %{REQUEST_URI} archaeology-west-coast$
+    RewriteRule (.*) archaeology.php
+
+    RewriteCond %{REQUEST_URI} about-vcs-west-coast-resource-consents$
+    RewriteRule (.*) about.php
+
+    RewriteCond %{REQUEST_URI} contact-vcs-environmental-management-services$
+    RewriteRule (.*) contact.php
+
+    RewriteCond %{REQUEST_URI} dairy-effluent-management$
+    RewriteRule (.*) dairy.php
+
+    RewriteCond %{REQUEST_URI} mining-investment-opportunities$
+    RewriteRule (.*) investments.php
+
+    RewriteCond %{REQUEST_URI} compliance-advice-and-other-services$
+    RewriteRule (.*) services.php
+
+    RewriteCond %{REQUEST_URI} vcs$
+    RewriteRule (.*) index.php
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . index.php [L]
+</IfModule>
