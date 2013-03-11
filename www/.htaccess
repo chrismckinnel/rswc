@@ -2,6 +2,8 @@
     RewriteEngine On
     RewriteBase /~cmckinnel/vcs/www
 
+    RewriteRule ^(.*)/$ $1 [L,R=301]
+
     RewriteCond %{REQUEST_URI} gold-mining-permits-and-investments$
     RewriteRule (.*) mining.php
 
