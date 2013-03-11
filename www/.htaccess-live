@@ -1,6 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /~vcs29/new/v1
+    RewriteBase /
+
+    RewriteRule ^(.*)/$ $1 [L,R=301]
 
     RewriteCond %{REQUEST_URI} gold-mining-permits-and-investments$
     RewriteRule (.*) mining.php
