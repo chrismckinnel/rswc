@@ -35,6 +35,9 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           <!--start main text-->
         <h1>Investment Opportunities on the West Coast</h1>
         <p>
+          <img src="images/investments.jpg" alt="Photo" width="250" height="166" border="0" align="right" class="image_border" />
+        </p>
+        <p>
           At VCS we are in contact with a large number of permit holders, mining contractors and landowners.
         </p>
         <p>

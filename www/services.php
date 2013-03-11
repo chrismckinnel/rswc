@@ -48,11 +48,15 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           VCS has experience in managing large-scale incidents, reducing the likelihood of enforcement 
           action from the Council.  Let us minimise the risk of notices, fines, and prosecution action 
           that could seriously affect you and your company should the worst occur.  It’s just another 
-          way we help to reduce the stress in an already stressful situation. Contact us for further 
-          information.
+          way we help to reduce the stress in an already stressful situation. 
+          <a href="contact-vcs-environmental-management-services">Contact us for further information.</a>
         </p>
  
         <h2>Environmental Monitoring</h2>
+        <p>
+          <img src="images/services.jpg" alt="Photo" width="170" height="255" border="0" align="right" class="image_border" />
+        </p>
+
         <p>
           VCS has extensive experience in monitoring a large range of activities on the West Coast.  
           These include coal and gold mines, dairy farms, subdivisions, land development,  forestry and a lot more.

@@ -35,47 +35,52 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           <!--start main text-->
           <h1>VCS Resource Consents West Coast</h1>
           <p>
-            VCS will manage the consent process for you, as well as any ongoing monitoring. Whether you’re running a large-scale mining operation or a family dairy farm, VCS can help you negotiate the red tape and bureaucracy, letting you get on with what you do best.<br><br>
-            Consent and compliance issues can be a headache. We understand the importance of getting it right the first time – this is where we can help.
+            VCS will manage the consent process for you, as well as any ongoing monitoring. Whether you’re running a 
+            large-scale mining operation or a family dairy farm, VCS can help you negotiate the red tape and bureaucracy, 
+            letting you get on with what you do best.
+          </p>
+          <p>
+            Consent and compliance issues can be a headache. We understand the importance of getting it right the 
+            first time – this is where we can help.
           </p>
           <!--start box 1-->
           <div class="service_box_container" style="border-top:1px dashed #c9c4b3;;">
-            <div class="image"> <img src="images/icon_sale.gif" alt="Sale" width="67" height="65" border="0" /> </div>
+            <div class="image"> <img src="images/mining_thumb.jpg" alt="Truck" width="96" height="91" border="0" /> </div>
             <div class="text">
-              <h2>Compliance Support</h2>
+              <h2>Mining</h2>
                 <p>
-                  Do you find it difficult to deal with local and government agencies?<br>
-                  Let us take the hassle out of dealing with Compliance Officers and other governance agency officials.
+                  Have you found the perfect piece of mineable land? Do you need a mining permit, resource consent 
+                  or access arrangement? Let VCS help you untangle the red tape and get you mining faster.
                 </p>
-              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
+                </p>
+              <p><a href="gold-mining-permits-and-investments" class="size11">Find how more about how VCS can help get you mining permits, resource consents and land access</a>.</p>
             </div>
             <hr class="clear" />
           </div>
           <!--end box 1-->
           <!--start box 2-->
           <div class="service_box_container">
-            <div class="image"> <img src="images/icon_truck.gif" alt="Truck" width="67" height="67" border="0" /> </div>
+            <div class="image"> <img src="images/dairy_thumb.jpg" alt="Truck" width="96" height="91" border="0" /> </div>
             <div class="text">
-              <h2>Consent Applications</h2>
-              <ul>
-                <li>Mining - coal and gold</li>
-                <li>Farm dairy effluent systems</li>
-                <li>Land development</li>
-              </ul>
-              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
+              <h2>Dairy Farming</h2>
+              <p>
+                Have you had a visit from the Council? Do you need to upgrade your effluent system? Do you farm in the Lake Brunner Catchment? 
+                Do you need help with water sampling? Have you got plans to develop your land?
+              </p>
+              <p><a href="dairy-effluent-management" class="size11">Find out more about how VCS can help you with your effluent needs</a>.</p>
             </div>
             <hr class="clear" />
           </div>
           <!--end box 2-->
           <!--start box 3-->
           <div class="service_box_container">
-            <div class="image"> <img src="images/icon_arrow.gif" alt="Arrow" width="67" height="67" border="0" /> </div>
+            <div class="image"> <img src="images/services_thumb.jpg" alt="Truck" width="95" height="85" border="0" /> </div>
             <div class="text">
-              <h2>Environmental Monitoring</h2>
+              <h2>Other Services</h2>
               <p>
                 VCS has extensive experience in monitoring a large range of activities on the West Coast. These include coal and gold mines, dairy farms, subdivisions, land development, forestry and a lot more.
               </p>
-              <p><a href="compliance-advice-and-other-services" class="size11">Compliance advice and our other services</a> </p>
+              <p><a href="compliance-advice-and-other-services" class="size11">Find out more about Compliance Advice and our other services</a>.</p>
             </div>
             <hr class="clear" />
           </div>

@@ -322,9 +322,9 @@ hr {
 }
 .service_box_container .image {
 	float:left;
-	width:67px;
-	height:67px;
-	margin:10px 0px 0px 22px;
+	width:95px;
+	height:91px;
+	margin:10px 0px 0px 10px;
 }
 .service_box_container .text {
 	float:right;
@@ -397,6 +397,10 @@ ul.ticklist li {
 	float:left;
 	width:100px;
 	clear:right;
+}
+.contact_person {
+    float: left;
+    width: 30%;
 }
 .forms {
 	background-color:#FFFFFF !important; /*the important gets rid of the yellow google toolbar field style*/

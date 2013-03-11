@@ -87,8 +87,25 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
 			</script>
           
           <hr />
+            <p class="contact_person">
+              <span class="green"><strong>Phil McKinnel</strong></span><br />
+              E: <a href="mailto:pm@vcs.net.nz">pm@vcs.net.nz</a><br />
+              M: 021 685 592
+            </p>
+            <p class="contact_person">
+              <span class="green"><strong>Tom Overton</strong></span><br />
+              E: <a href="mailto:tomo@vcs.net.nz">tomo@vcs.net.nz</a><br />
+              M: 021 190 0640
+            </p>
+            <p class="contact_person">
+              <span class="green"><strong>Luke McNeish</strong></span><br />
+              E: <a href="mailto:lukem@vcs.net.nz">lukem@vcs.net.nz</a><br />
+              M: 021 0214 0444
+            </p>
+          
+          <hr />
           <h1>Email Us </h1>
-          <p>To contact us via email please complete the form below.</p>
+          <p>For any other general enquiries, please use the form below.</p>
           <form action="formsubmit.php" method="post">
             <fieldset id="contact">
             <label for="name">Name:</label>

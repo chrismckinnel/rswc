@@ -35,6 +35,9 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           <!--start main text-->
         <h1>Archaeology on the West Coast</h1>
         <p>
+          <img src="images/archaeology.jpg" alt="Photo" width="250" height="444" border="0" align="right" class="image_border" />
+        </p>
+        <p>
           VCS employs the only West Coast based NZHPT approved Archaeologist.
         </p>
         <p>
@@ -47,6 +50,9 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           focused organisation and maintains close ties with industry groups and aims to provide the 
           best advice, first time to consent applicants and permit holders to gain the best possible 
           result through the consent process.</p>
+        </p>
+        <p>
+          For further information on Archaeology please contact <a href="mailto:pm@vcs.net.nz">Phil McKinnel</a>
         </p>
         <h1>Earthquake Strengthening</h1>
         <p>
