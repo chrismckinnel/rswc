@@ -73,17 +73,19 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
           <li>Bio-diversity surveys</li>
         </ul>
         <p> 
-        <a href="contact-vcs-environmental-services">Contact us for further information.</a>
+        <a href="contact-vcs-environmental-management-services">Contact us for further information.</a>
         <h2>Compliance Support</h2>
         <p> 
           Do you find it difficult to deal with local and government agencies? Let us take the hassle 
           out of dealing with Compliance Officers and other governance agency officials.
         </p>
         <p>
+          <img src="images/compliance-advice.jpg" alt="Photo" width="170" height="255" border="0" align="right" class="image_border" />
+        </p>
+        <p>
           We can run the inspections for you,  providing a comprehensive pre-inspection report that enables 
           you to deal with issues before they become a problem.
         </p>
- 
         <p>
           We offer services to assist with:<br>
           <ul class="ticklist">
@@ -95,7 +97,7 @@ margin:8px 25px 0px 0px; }/* you may need to change these margins if your contac
             <li>Concessions</li>
             <li>Boundary issues</li>
           </ul>
-        <a href="contact-vcs-environmental-services">Contact us for further information.</a>
+        <a href="contact-vcs-environmental-management-services">Contact us for further information.</a>
         <p>&nbsp;</p>
      </div>
         <!--end left column-->
