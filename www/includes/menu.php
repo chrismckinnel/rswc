@@ -2,48 +2,12 @@
 
 $menu_def = '<?xml version="1.0" encoding="UTF-8"?>
 <menu>
-  <menu_item href="index.php" label="Home">
-    <menu_item href="index.php" label="Home Version 1"></menu_item>
-    <menu_item href="index-2.php" label="Home Version 2"></menu_item>
-  </menu_item>
-  <menu_item href="about-us.php" label="Templates">
-  	<menu_item href="about-us.php" label="About Us"></menu_item>
-    <menu_item href="services.php" label="Services"></menu_item>
-	<menu_item href="testimonials.php" label="Testimonials"></menu_item>
-	<menu_item href="sitemap.php" label="Sitemap"></menu_item>
-	<menu_item href="404-error-page.php" label="404 Error Page"></menu_item>
-	<menu_item href="search-results.php" label="Search Results"></menu_item>
-	<menu_item href="full-width-page.php" label="Full Width Page"></menu_item>
-	<menu_item href="page-right-sidebar.php" label="Page with Right Sidebar"></menu_item>
-	<menu_item href="page-left-sidebar.php" label="Page with Left Sidebar"></menu_item>
-	<menu_item href="#" label="Multi-Level Drop-Down">
-		<menu_item href="#" label="Drop-Down Example"></menu_item>
-		<menu_item href="#" label="Multi-Level Drop-Down">
-			<menu_item href="#" label="Drop-Down Example"></menu_item>
-			<menu_item href="#" label="Drop-Down Example"></menu_item>
-			<menu_item href="#" label="Drop-Down Example"></menu_item>
-		</menu_item>
-		<menu_item href="#" label="Drop-Down Example"></menu_item>
-	</menu_item>
-  </menu_item>
-  <menu_item href="elements.php" label="Features">
-    <menu_item href="elements.php" label="Elements"></menu_item>
-    <menu_item href="grid-columns.php" label="Grid Columns"></menu_item>
-    <menu_item href="pricing-tables.php" label="Pricing Tables"></menu_item>
-    <menu_item href="images.php" label="Images"></menu_item>
-    <menu_item href="video.php" label="Video"></menu_item>
-  </menu_item>
-  <menu_item href="portfolio.php" label="Portfolio">
-    <menu_item href="portfolio.php" label="Portfolio"></menu_item>
-    <menu_item href="portfolio-item-slider.php" label="Portfolio Item &amp;ndash; Slider"></menu_item>
-    <menu_item href="portfolio-item-image.php" label="Portfolio Item &amp;ndash; Image"></menu_item>
-    <menu_item href="portfolio-item-embedded-video.php" label="Portfolio Item &amp;ndash; Embedded Video"></menu_item>
-    <menu_item href="portfolio-item-self-hosted-video.php" label="Portfolio Item &amp;ndash; Self-Hosted Video"></menu_item>
-  </menu_item>
-  <menu_item href="blog.php" label="Blog">
-    <menu_item href="blog.php" label="Blog Overview"></menu_item>
-    <menu_item href="blog-post.php" label="Blog Post"></menu_item>
-  </menu_item>
+  <menu_item href="index.php" label="Home"></menu_item>
+  <menu_item href="mining.php" label="Mining"></menu_item>
+  <menu_item href="dairy.php" label="Dairy"></menu_item>
+  <menu_item href="services.php" label="Other Services"></menu_item>
+  <menu_item href="testimonials.php" label="Testimonials"></menu_item>
+  <menu_item href="about-us.php" label="About Us"></menu_item>
   <menu_item href="contact.php" label="Contact"></menu_item>
 </menu>';
 

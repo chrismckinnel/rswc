@@ -4,7 +4,6 @@
     <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
 	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
     <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
-    <script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> <!-- language switcher -->
     <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
     <script type="text/javascript"> <!-- drop-down menu -->
         ddlevelsmenu.setup("nav", "topbar");
@@ -18,7 +17,6 @@
     <script src="js/jquery.cycle.all.js" type="text/javascript"></script> <!-- entry slider -->
     <script src="js/mediaelement-and-player.min.js" type="text/javascript"></script> <!-- video and audio players -->
     <script src="js/jquery.fitvids.js" type="text/javascript"></script> <!-- responsive video embeds -->
-    <script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
     <script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
     <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
     <!-- end JS -->

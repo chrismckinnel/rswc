@@ -12,36 +12,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	
-	<!-- begin CSS -->
-	<link href="style.css" type="text/css" rel="stylesheet">
-	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
-	<link href="css/colors/orange.css" type="text/css" rel="stylesheet">
-    <!-- end CSS -->
-	
-	<link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon">
-	
-	<!-- begin JS -->
-    <script src="js/jquery-1.11.1.min.js" type="text/javascript"></script> <!-- jQuery -->
-    <script src="js/ie.js" type="text/javascript"></script> <!-- IE detection -->
-    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
-	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
-    <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
-	<!-- begin language switcher -->
-	<script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> 
-    <!-- end language switcher -->
-    <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
-    <script type="text/javascript"> <!-- drop-down menu -->
-        ddlevelsmenu.setup("nav", "topbar");
-    </script>
-    <script src="js/tinynav.min.js" type="text/javascript"></script> <!-- tiny nav -->
-    <script src="js/jquery.ui.totop.min.js" type="text/javascript"></script> <!-- scroll to top -->
-    <script src="js/jquery.validate.min.js" type="text/javascript"></script> <!-- form validation -->
-	<script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
+    <?php
+        include('includes/styles.php');
+        include('includes/scripts.php');
+    ?>
+    
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script> <!-- Google maps -->
     <script src="js/jquery.gmap.min.js" type="text/javascript"></script> <!-- gMap -->
-	<script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
-    <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
-    <!-- end JS -->
     
 	<title>Finesse - Contact</title>
 </head>
@@ -49,121 +26,7 @@
 <body>
 <!-- begin container -->
 <div id="wrap">
-	<!-- begin header -->
-        <header id="header" class="container">
-            <!-- begin header top -->
-            <section id="header-top" class="clearfix">
-                <!-- begin header left -->
-                <div class="one-half">
-                    <h1 id="logo"><a href="index.php"><img src="images/logo.png" alt="Finesse"></a></h1>
-                    <p id="tagline">Responsive Business Theme</p>
-                </div>
-                <!-- end header left -->
-                
-                <!-- begin header right -->
-                <div class="one-half column-last">
-                    <!-- begin language switcher -->
-                    <div id="polyglotLanguageSwitcher">
-                        <form action="#">
-                            <select id="polyglot-language-options">
-                                <option id="en" value="en" selected>English</option>
-                                <option id="fr" value="fr">Fran&ccedil;ais</option>
-                                <option id="de" value="de">Deutsch</option>
-                                <option id="it" value="it">Italiano</option>
-                                <option id="es" value="es">Espa&ntilde;ol</option>
-                            </select>
-                        </form>
-                    </div>
-                    <!-- end language switcher -->
-                    
-                    <!-- begin contact info -->
-                    <div class="contact-info">
-                        <p class="phone">(123) 456-7890</p>
-                        <p class="email"><a href="mailto:info@finesse.com">info@finesse.com</a></p>
-                    </div>
-                    <!-- end contact info -->
-                </div>
-                <!-- end header right -->
-            </section>
-            <!-- end header top -->
-            
-            <!-- begin navigation bar -->
-            <section id="navbar" class="clearfix">
-                <!-- begin navigation -->
-                <nav id="nav">
-                    <ul id="navlist" class="clearfix">
-                        <li><a href="index.php" data-rel="submenu1">Home</a>
-                        	<ul id="submenu1" class="ddsubmenustyle">
-                                <li><a href="index.php">Home Version 1</a></li>
-                                <li><a href="index-2.php">Home Version 2</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" data-rel="submenu2">Templates</a>
-                            <ul id="submenu2" class="ddsubmenustyle">
-                            	<li><a href="about-us.php">About Us</a></li>
-                            	<li><a href="services.php">Services</a></li>
-                                <li><a href="testimonials.php">Testimonials</a></li>
-                                <li><a href="sitemap.php">Sitemap</a></li>
-                                <li><a href="404-error-page.php">404 Error Page</a></li>
-                                <li><a href="search-results.php">Search Results</a></li>
-                                <li><a href="full-width-page.php">Full Width Page</a></li>
-                                <li><a href="page-right-sidebar.php">Page with Right Sidebar</a></li>
-                                <li><a href="page-left-sidebar.php">Page with Left Sidebar</a></li>
-                                <li><a href="#">Multi-Level Drop-Down</a>
-                                    <ul>
-                                        <li><a href="#">Drop-Down Example</a></li>
-                                        <li><a href="#">Multi-Level Drop-Down</a>
-                                            <ul>
-                                                <li><a href="#">Drop-Down Example</a></li>
-                                                <li><a href="#">Drop-Down Example</a></li>
-                                                <li><a href="#">Drop-Down Example</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Drop-Down Example</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="#" data-rel="submenu3">Features</a>
-                            <ul id="submenu3" class="ddsubmenustyle">
-                                <li><a href="elements.php">Elements</a></li>
-                                <li><a href="grid-columns.php">Grid Columns</a></li>
-                                <li><a href="pricing-tables.php">Pricing Tables</a></li>
-                                <li><a href="images.php">Images</a></li>
-                                <li><a href="video.php">Video</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" data-rel="submenu4">Portfolio</a>
-                            <ul id="submenu4" class="ddsubmenustyle">
-                                <li><a href="portfolio.php">Portfolio Overview</a></li>
-                                <li><a href="portfolio-item-slider.php">Portfolio Item &ndash; Slider</a></li>
-                                <li><a href="portfolio-item-image.php">Portfolio Item &ndash; Image</a></li>
-                                <li><a href="portfolio-item-embedded-video.php">Portfolio Item &ndash; Embedded Video</a></li>
-                                <li><a href="portfolio-item-self-hosted-video.php">Portfolio Item &ndash; Self-Hosted Video</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" data-rel="submenu5">Blog</a>
-                            <ul id="submenu5" class="ddsubmenustyle">
-                                <li><a href="blog.php">Blog Overview</a></li>
-                                <li><a href="blog-post.php">Blog Post</a></li>
-                            </ul>
-                        </li>
-                        <li class="current"><a href="contact.php">Contact</a></li>
-                    </ul>
-                </nav>
-                <!-- end navigation -->
-                
-                <!-- begin search form -->
-                <form id="search-form" action="search.php" method="get">
-                    <input id="s" type="text" name="s" placeholder="Search &hellip;" style="display: none;">
-                    <input id="search-submit" type="submit" name="search-submit" value="Search">
-                </form>
-                <!-- end search form -->
-            </section>
-            <!-- end navigation bar -->
-            
-        </header>
-        <!-- end header -->
+    <?php include('includes/header.php'); ?>
         
     <!-- begin content -->
         <section id="content" class="container clearfix">
@@ -241,13 +104,11 @@
             <aside id="sidebar" class="one-fourth column-last">
             	<div class="widget contact-info">
                     <h3>Contact Info</h3>
-                    <p class="address"><strong>Address:</strong> 123 Street, City, Country</p>
-                    <p class="phone"><strong>Phone:</strong> (123) 456-7890</p>
-                    <p class="email"><strong>Email:</strong> <a href="mailto:info@finesse.com">info@finesse.com</a></p>
+                    <p class="address"><strong>Address: </strong>3 Elizabeth Street, Greymouth, New Zealand</p>
+                    <p class="phone"><strong>Phone: </strong>+64 21 849 978</p>
+                    <p class="email"><strong>Email:</strong> <a href="mailto:phil@rswc.co.nz">phil@rswc.co.nz</a></p>
                     <p class="business-hours"><strong>Business Hours:</strong><br>
-                    Monday-Friday: 9:00-18:00<br>
-                    Saturday: 10:00-17:00<br>
-                    Sunday: Closed
+                    Monday-Friday: 8:00-18:00<br>
                     </p>
                 </div>
             </aside>

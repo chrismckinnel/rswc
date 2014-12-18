@@ -79,7 +79,7 @@ body {
 	font-size: 12px;
 	line-height: 1.5em; /* 18px */
 	color: #383838;
-	background-color: teal;
+	background-color: #577482;
 	background-image: none;
 	background-repeat: repeat;
 	background-position: left top;
@@ -306,7 +306,7 @@ mark {
 }
 
 #logo a img {
-	max-width: 100%;
+	max-width: 50%;
 }
 
 #tagline {

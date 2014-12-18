@@ -11,33 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	
-	<!-- begin CSS -->
-	<link href="style.css" type="text/css" rel="stylesheet">
-	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
-	<link href="css/colors/orange.css" type="text/css" rel="stylesheet">
-    <!-- end CSS -->
-	
-	<link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon">
-	
-	<!-- begin JS -->
-    <script src="js/jquery-1.11.1.min.js" type="text/javascript"></script> <!-- jQuery -->
-    <script src="js/ie.js" type="text/javascript"></script> <!-- IE detection -->
-    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
-	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
-    <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
-	<!-- begin language switcher -->
-	<script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> 
-    <!-- end language switcher -->
-    <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
-    <script type="text/javascript"> <!-- drop-down menu -->
-        ddlevelsmenu.setup("nav", "topbar");
-    </script>
-    <script src="js/tinynav.min.js" type="text/javascript"></script> <!-- tiny nav -->
-    <script src="js/jquery.ui.totop.min.js" type="text/javascript"></script> <!-- scroll to top -->
-	<script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
-	<script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
-    <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
-    <!-- end JS -->
+    <?php
+        include('includes/styles.php');
+        include('includes/scripts.php');
+    ?>
     
 	<title>Finesse - Services</title>
 </head>

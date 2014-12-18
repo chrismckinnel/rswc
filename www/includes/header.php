@@ -11,24 +11,10 @@
 
         <!-- begin header right -->
         <div class="one-half column-last">
-            <!-- begin language switcher -->
-            <div id="polyglotLanguageSwitcher">
-                <form action="#">
-                    <select id="polyglot-language-options">
-                        <option id="en" value="en" selected>English</option>
-                        <option id="fr" value="fr">Fran&ccedil;ais</option>
-                        <option id="de" value="de">Deutsch</option>
-                        <option id="it" value="it">Italiano</option>
-                        <option id="es" value="es">Espa&ntilde;ol</option>
-                    </select>
-                </form>
-            </div>
-            <!-- end language switcher -->
-
             <!-- begin contact info -->
             <div class="contact-info">
-                <p class="phone">(123) 456-7890</p>
-                <p class="email"><a href="mailto:info@finesse.com">info@finesse.com</a></p>
+                <p class="phone">+64 21 849 978</p>
+                <p class="email"><a href="mailto:phil@rswc.co.nz">phil@rswc.co.nz</a></p>
             </div>
             <!-- end contact info -->
         </div>
@@ -43,13 +29,6 @@
             <?php print_main_menu(); ?>
         </nav>
         <!-- end navigation -->
-
-        <!-- begin search form -->
-        <form id="search-form" action="search.php" method="get">
-            <input id="s" type="text" name="s" placeholder="Search &hellip;" style="display: none;">
-            <input id="search-submit" type="submit" name="search-submit" value="Search">
-        </form>
-        <!-- end search form -->
     </section>
     <!-- end navigation bar -->
 

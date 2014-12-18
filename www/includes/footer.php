@@ -3,35 +3,27 @@
     <div class="container">
         <!-- begin footer top -->
         <div id="footer-top">
-            <div class="one-fourth">
+            <div class="one-third">
                 <div class="widget">
                     <h3>About Us</h3>
-                    <p>Finesse is a responsive business and portfolio theme carefully handcrafted using the latest technologies.</p>
-                    <p>It features a clean design, as well as extended functionality that will come in very handy.</p>
+                    <p>RSWC is a West Coast owned and operated environmental consultancy. RSWC specialises in resource management work associated with Dairy Farming, Coal and Gold Mining.</p>
+                    <p>RSWC can run the resource consent process for you to ensure the process is smooth and as hassle free as possible. </p>
                 </div>
             </div>
-            <div class="one-fourth">
+            <div class="one-third">
                 <div class="widget latest-posts">
-                    <h3>Latest Posts</h3>
+                    <h3>Services</h3>
                     <ul>
                         <li>
-                            <a href="blog-post.php">How to Make Innovative Ideas Happen</a>
-                            <span>March 10, 2012</span>
+                            <a href="services.php">Mining</a>
                         </li>
                         <li>
-                            <a href="blog-post.php">Web Development for the iPhone and iPad</a>
-                            <span>March 10, 2012</span>
+                            <a href="services.php">Dairy</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="one-fourth">
-                <div class="widget twitter-widget">
-                    <h3>Latest Tweets</h3>
-                    <div class="tweet"></div>
-                </div>
-            </div>
-            <div class="one-fourth column-last">
+            <div class="one-third column-last">
                 <div class="widget contact-info">
                     <h3>Contact Info</h3>
                     <p class="address"><strong>Address:</strong> 123 Street, City, Country</p>
@@ -63,10 +55,11 @@
                 <nav id="footer-nav">
                     <ul>
                         <li><a href="index.php">Home</a> &middot;</li>
-                        <li><a href="about-us.php">Templates</a> &middot;</li>
-                        <li><a href="elements.php">Features</a> &middot;</li>
-                        <li><a href="portfolio.php">Portfolio</a> &middot;</li>
-                        <li><a href="blog.php">Blog</a> &middot;</li>
+                        <li><a href="mining.php">Mining</a> &middot;</li>
+                        <li><a href="dairy.php">Dairy</a> &middot;</li>
+                        <li><a href="services.php">Other Services</a> &middot;</li>
+                        <li><a href="testimonials.php">Testimonials</a> &middot;</li>
+                        <li><a href="about-us.php">About Us</a> &middot;</li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </nav>
