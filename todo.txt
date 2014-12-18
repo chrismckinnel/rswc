@@ -1,2 +1,0 @@
-Once the domain has propagated, make an XML site-map to submit to google via webmaster tools
-  * Consider using https://code.google.com/p/googlesitemapgenerator/
