@@ -5,8 +5,7 @@
     <section id="header-top" class="clearfix">
         <!-- begin header left -->
         <div class="one-half">
-            <h1 id="logo"><a href="index.php"><img src="images/logo.png" alt="Finesse"></a></h1>
-            <p id="tagline">Responsive Business Theme</p>
+            <h1 id="logo"><a href="index.php"><img src="images/rswc-logo.png" alt="Resource Solutions West Coast"></a></h1>
         </div>
         <!-- end header left -->
 

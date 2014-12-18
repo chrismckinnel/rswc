@@ -79,7 +79,7 @@ body {
 	font-size: 12px;
 	line-height: 1.5em; /* 18px */
 	color: #383838;
-	background-color: #fff;
+	background-color: teal;
 	background-image: none;
 	background-repeat: repeat;
 	background-position: left top;
@@ -120,9 +120,14 @@ ul {
 /* Containers
 /* ---------------------------------------------------------------------- */
 #wrap {
+	width: 1020px;
+	max-width: 100%;
+	margin: 0 auto;
 	border-top: 5px solid #383838;
 	padding-top: 30px;
 	overflow: hidden;
+	background-color: #fff;
+	box-shadow: 0 0 8px rgba(0,0,0,0.24);
 }
 
 .container {
@@ -1939,7 +1944,7 @@ ul#search-results p {
 	.clients {
 		margin: 0 -20px 20px 0;
 	}
-	
+
 	.clients li {
 		width: 170px;
 		margin: 0 20px 20px 0;
@@ -2064,7 +2069,7 @@ ul#search-results p {
 	.team-member {
 		margin-right: 0;
 	}
-	
+
 	/* Responsive Tables */
 	
 	.table-wrapper { position: relative; margin-bottom: 20px; overflow: hidden; }
@@ -2206,4 +2211,5 @@ ul#search-results p {
 	.clients li {
 		width: 143px;
 	}
+
 }
