@@ -27,11 +27,10 @@
         <section>
             <div class="infobox">
                 <div class="infobox-inner">
-                    <a class="button large" href="http://themeforest.net/user/ixtendo/portfolio">Learn More</a>
+                    <a class="button large" href="contact.php">Get in touch</a>
                     <div class="with-button">
-                        <h2>Resource Consents for Mining, etc</h2>
-                        <p>This box needs content that gives users a taste of what you do, and makes them want to click "Learn more", which will link to the services page probably</p>
-                        <p>It can be as long as you need it to be, but you want to keep it short to lead users to a particular page</p>
+                        <h2>Resource Management, Mining Permit and Effluent Management</h2>
+                        <p>RSWC recognises that it is important to do things right the first time to ensure a smooth process, RSWC prides itself on the quality of work provided and a high level of customer service.</p>
                     </div>
                     <a class="button large mobile-button" href="http://themeforest.net/user/ixtendo/portfolio">Learn More</a>
                 </div>
@@ -44,38 +43,31 @@
                 <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src="images/slider/slides/living-white-940x350.png" alt="White Living Room">
+                            <img src="images/slider/slides/birchfield-ross-mining.jpg" alt="Wash Plant operating by Birchfield’s Ross Mining Ltd.">
                             <div class="flex-caption">
-                                <h2>Responsive Layout</h2>
-                                <p>You can describe your slides using captions. This is an example of a caption with <a href="#">a link</a>.</p>
+                                <h2>Birchfield Ross</h2>
+                                <p>Wash Plant operating by Birchfield’s Ross Mining Ltd.</p>
                             </div>
                         </li>
                         <li>
-                            <img src="images/slider/slides/villa-940x350.png" alt="Villa">
+                            <img src="images/slider/slides/exploration.jpg" alt="Exploration activities authorised by Westland District Council Resource Consent.">
                             <div class="flex-caption">
-                                <h2>HTML5 &amp; CSS3 Code</h2>
-                                <p>You can describe your slides using captions. This is an example of a caption with <a href="#">a link</a>.</p>
+                                <h2>Exploration</h2>
+                                <p>Exploration activities authorised by Westland District Council Resource Consent.</p>
                             </div>
                         </li>
                         <li>
-                            <img src="images/slider/slides/building-940x350.png" alt="Building">
+                            <img src="images/slider/slides/gemini-table.jpg" alt="Gemini Table used for processing drill samples.">
                             <div class="flex-caption">
-                                <h2>Clean Design</h2>
-                                <p>You can describe your slides using captions. This is an example of a caption with <a href="#">a link</a>.</p>
+                                <h2>Gemini Table</h2>
+                                <p>Gemini Table used for processing drill samples.</p>
                             </div>
                         </li>
                         <li>
-                            <img src="images/slider/slides/living-brown-940x350.png" alt="Brown Living Room">
+                            <img src="images/slider/slides/ground-prep.jpg" alt="Ground preparation at an alluvial site on Department of Conservation Land.">
                             <div class="flex-caption">
-                                <h2>Touch Enabled</h2>
-                                <p>You can describe your slides using captions. This is an example of a caption with <a href="#">a link</a>.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <img src="images/slider/slides/dining-brown-940x350.png" alt="Brown Dining Room">
-                            <div class="flex-caption">
-                                <h2>Easy to Customize</h2>
-                                <p>You can describe your slides using captions. This is an example of a caption with <a href="#">a link</a>.</p>
+                                <h2>Group Preparation</h2>
+                                <p>Ground preparation at an alluvial site on Department of Conservation Land.</p>
                             </div>
                         </li>
                     </ul>
@@ -83,50 +75,6 @@
             </div>
         </section>
         <!-- end slider -->
-        <!-- begin testimonials -->
-        <section class="column-last">
-            <h2>Testimonials <span class="more">&ndash; <a href="testimonials.php">View All Testimonials &raquo;</a></span></h2>
-
-            <!-- begin testimonial carousel -->
-            <ul class="testimonial-carousel">
-                <li>
-                    <blockquote class="speech-bubble">
-                        <div class="quote-content">
-                            <p>Great theme! Very intuitive, clean code, very well-organized documentation &ndash; I would highly recommend getting this theme; it’s ideal for further customization!</p>
-                            <span class="quote-arrow"></span>
-                        </div>
-                        <div class="quote-meta">Harry Jones, Web Designer<br>
-                            <span class="grey-text">CreativeBrains</span>
-                        </div>
-                    </blockquote>
-                </li>
-                <li>
-                    <blockquote class="speech-bubble">
-                        <div class="quote-content">
-                            <p>I would rate the template 5 out of 5 and here's why: it has a clean and straightforward look that will work for a variety of target audiences, which is important when you build for ROI.</p>
-                            <span class="quote-arrow"></span>
-                        </div>
-                        <div class="quote-meta">Andrew Williams, Art Director<br>
-                            <span class="grey-text">SmartBiz</span>
-                        </div>
-                    </blockquote>
-                </li>
-                <li>
-                    <blockquote class="speech-bubble">
-                        <div class="quote-content">
-                            <p>The template is really intuitive to customize and, the few instances where I needed help, you were right there to assist, in a timely manner, I might add. Well done, keep up the great work!</p>
-                            <span class="quote-arrow"></span>
-                        </div>
-                        <div class="quote-meta">Larry Thompson, Web Developer<br>
-                            <span class="grey-text">BitVenture</span>
-                        </div>
-                    </blockquote>
-                </li>
-            </ul>
-            <!-- end testimonial carousel -->
-        </section>
-        <!-- end testimonials -->
-
 
         <!-- begin services -->
         <section>
@@ -136,50 +84,26 @@
             <ul class="iconbox-carousel">
                 <li>
                     <div class="iconbox computer">
-                        <h4><a href="services.php#responsive-layouts"><span class="iconbox-icon"></span>Responsive Layouts</a></h4>
-                        <p>Layouts that scale gracefully across varying screen sizes.</p>
+                        <h4><a href="mining.php"><span class="iconbox-icon"></span>Mining</a></h4>
+                        <p>Mining Permit applications, Resource Consents, DOC Access Arrangements, Tribute Agreements</p>
                     </div>
                 </li>
                 <li>
                     <div class="iconbox mouse">
-                        <h4><a href="services.php#html5-css3-code"><span class="iconbox-icon"></span>HTML5 &amp; CSS3 Code</a></h4>
-                        <p>Standards-compliant and cross-browser HTML/CSS code.</p>
+                        <h4><a href="dairy.php"><span class="iconbox-icon"></span>Dairy</a></h4>
+                        <p>Farm Dairy Effluent Management, Water Sampling, Effluent System Design, River Protection, Land Development</p>
                     </div>
                 </li>
                 <li>
                     <div class="iconbox applications">
-                        <h4><a href="services.php#clean-design"><span class="iconbox-icon"></span>Clean Design</a></h4>
-                        <p>Professional, clutter-free and aesthetically simple design.</p>
+                        <h4><a href="services.php#clean-design"><span class="iconbox-icon"></span>Compliance Support</a></h4>
+                        <p>Council Liaison, Environmental Management Plans, Pre Inspection Audits, Abatement and Infringement Notice Responses</p>
                     </div>
                 </li>
                 <li>
                     <div class="iconbox cog">
-                        <h4><a href="services.php#cms-driven-websites"><span class="iconbox-icon"></span>CMS-Driven Websites</a></h4>
-                        <p>CMS-driven websites that you can easily customize.</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="iconbox globe">
-                        <h4><a href="services.php#search-engine-optimization"><span class="iconbox-icon"></span>Search Engine Optimization</a></h4>
-                        <p>Get the maximum exposure from search engines.</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="iconbox write">
-                        <h4><a href="services.php#copywriting"><span class="iconbox-icon"></span>Copywriting</a></h4>
-                        <p>Creative and engaging words that provoke action.</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="iconbox address-book">
-                        <h4><a href="services.php#customer-support"><span class="iconbox-icon"></span>Customer Support</a></h4>
-                        <p>Professional customer service that exceeds expectations.</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="iconbox chemical">
-                        <h4><a href="services.php#it-solutions"><span class="iconbox-icon"></span>IT Solutions</a></h4>
-                        <p>Connecting technology to your business needs.</p>
+                        <h4><a href="services.php#cms-driven-websites"><span class="iconbox-icon"></span>Environmental Monitoring</a></h4>
+                        <p>Flora and Fauna Assessments, Water Sampling, Incident Investigation, Annual Monitoring Reports, Annual Work Programmes.</p>
                     </div>
                 </li>
             </ul>

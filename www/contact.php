@@ -6,9 +6,8 @@
 	<!-- begin meta -->
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
-	<meta name="description" content="Finesse is a responsive business and portfolio theme carefully handcrafted using the latest technologies. It features a clean design, as well as extended functionality that will come in very handy.">
-	<meta name="keywords" content="Finesse, responsive business portfolio theme, HTML5, CSS3, clean design">
-	<meta name="author" content="Ixtendo">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	
@@ -20,7 +19,7 @@
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script> <!-- Google maps -->
     <script src="js/jquery.gmap.min.js" type="text/javascript"></script> <!-- gMap -->
     
-	<title>Finesse - Contact</title>
+	<title>Resource Solutions West Coast - Contact</title>
 </head>
 
 <body>
@@ -52,7 +51,7 @@
             <section id="main" class="three-fourths">
             <!-- begin contact form -->
             <h2>Contact Us</h2>
-            <p>We would be glad to have feedback from you. Drop us a line, whether it is a comment, a question, a work proposition or just a hello. You can use either the form below or the contact details on the right.</p>
+            <p>To further discuss your resource management needs please contact Phil McKinnel on +64 21 849 978, fill in the below form or send an email to <a href="phil@rswc.co.nz">phil@rswc.co.nz</a></p>
             <div id="contact-notification-box-success" class="notification-box notification-box-success" style="display: none;">
                 <p>Your message has been successfully sent. We will get back to you as soon as possible.</p>
                 <a href="#" class="notification-close notification-close-success">x</a>
@@ -70,10 +69,6 @@
                 <p>
                     <label for="email">Email:<span class="note">*</span></label>
                     <input id="email" type="email" name="email" class="required">
-                </p>
-                <p>
-                    <label for="url">Website:</label>
-                    <input id="url" type="url" name="url">
                 </p>
                 <p>
                     <label for="subject">Subject:<span class="note">*</span></label>

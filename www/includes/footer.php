@@ -20,26 +20,21 @@
                         <li>
                             <a href="services.php">Dairy</a>
                         </li>
+                        <li>
+                            <a href="services.php">Compliance Support</a>
+                        </li>
+                        <li>
+                            <a href="services.php">Environmental Monitoring</a>
+                        </li>
                     </ul>
                 </div>
             </div>
             <div class="one-third column-last">
                 <div class="widget contact-info">
                     <h3>Contact Info</h3>
-                    <p class="address"><strong>Address:</strong> 123 Street, City, Country</p>
-                    <p class="phone"><strong>Phone:</strong> (123) 456-7890</p>
-                    <p class="email"><strong>Email:</strong> <a href="mailto:info@finesse.com">info@finesse.com</a></p>
-                    <div class="social-links">
-                        <h4>Follow Us</h4>
-                        <ul>
-                            <li class="twitter"><a href="#" title="Twitter" target="_blank">Twitter</a></li>
-                            <li class="facebook"><a href="#" title="Facebook" target="_blank">Facebook</a></li>
-                            <li class="google"><a href="#" title="Google+" target="_blank">Google+</a></li>
-                            <li class="youtube"><a href="#" title="YouTube" target="_blank">YouTube</a></li>
-                            <li class="skype"><a href="#" title="Skype" target="_blank">Skype</a></li>
-                            <li class="rss"><a href="#" title="RSS" target="_blank">RSS</a></li>
-                        </ul>
-                    </div>
+                    <p class="address"><strong>Address:</strong> 3 Elizabeth Street, Greymouth, West Coast, New Zealand</p>
+                    <p class="phone"><strong>Phone:</strong>+64 21 849 978</p>
+                    <p class="email"><strong>Email:</strong> <a href="mailto:phil@rswc.co.nz">phil@rswc.co.nz</a></p>
                 </div>
             </div>
         </div>
@@ -47,18 +42,14 @@
 
         <!-- begin footer bottom -->
         <div id="footer-bottom">
-            <div class="one-half">
-                <p>Copyright &copy; 2012 Finesse. Created by <a href="http://themeforest.net/user/ixtendo">Ixtendo</a>.</p>
-            </div>
 
-            <div class="one-half column-last">
+            <div class="column-last">
                 <nav id="footer-nav">
                     <ul>
                         <li><a href="index.php">Home</a> &middot;</li>
                         <li><a href="mining.php">Mining</a> &middot;</li>
                         <li><a href="dairy.php">Dairy</a> &middot;</li>
                         <li><a href="services.php">Other Services</a> &middot;</li>
-                        <li><a href="testimonials.php">Testimonials</a> &middot;</li>
                         <li><a href="about-us.php">About Us</a> &middot;</li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>

@@ -5,9 +5,8 @@
 	<!-- begin meta -->
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
-	<meta name="description" content="Finesse is a responsive business and portfolio theme carefully handcrafted using the latest technologies. It features a clean design, as well as extended functionality that will come in very handy.">
-	<meta name="keywords" content="Finesse, responsive business portfolio theme, HTML5, CSS3, clean design">
-	<meta name="author" content="Ixtendo">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	
