@@ -15,10 +15,10 @@
                     <h3>Services</h3>
                     <ul>
                         <li>
-                            <a href="services.php">Mining</a>
+                            <a href="mining.php">Mining</a>
                         </li>
                         <li>
-                            <a href="services.php">Dairy</a>
+                            <a href="dairy.php">Dairy</a>
                         </li>
                         <li>
                             <a href="services.php">Compliance Support</a>

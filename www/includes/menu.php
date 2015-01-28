@@ -6,7 +6,7 @@ $menu_def = '<?xml version="1.0" encoding="UTF-8"?>
   <menu_item href="mining.php" label="Mining"></menu_item>
   <menu_item href="dairy.php" label="Dairy"></menu_item>
   <menu_item href="services.php" label="Other Services"></menu_item>
-  <menu_item href="about-us.php" label="About Us"></menu_item>
+  <menu_item href="about-us.php" label="About"></menu_item>
   <menu_item href="contact.php" label="Contact"></menu_item>
 </menu>';
 

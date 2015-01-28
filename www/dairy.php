@@ -35,6 +35,10 @@
         <p>We provide resource management support and advice in relation to a range of Dairy related issues.</p>
 
         <p>This includes management of Farm Dairy Effluent, development of Effluent Management Systems and other work that may require resource consent on your farm including:</p>
+
+        <img src="images/dairy/dairy.jpg" class="float-right dairy" />
+
+
         <ul class="check">
             <li>River protection works</li>
             <li>River diversions</li>
@@ -42,6 +46,7 @@
             <li>Irrigation</li>
             <li>Wintering and Stand Off Pads</li>
         </ul>
+
  
         <p>We can also provide you with a Farm Environmental Management Plan that can be provided to your Bank or other rural advisors to demonstrate the systems in place on your farm.</p>
         <p>Should you find yourself on the receiving end of an Abatement or Infringement Notice from the Council, RSWC can help you resolve the issues to ensure that matters don’t snow ball and become more serious than they need to be.</p>

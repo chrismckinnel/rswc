@@ -33,13 +33,6 @@
         <!-- end page header -->
         
         <!-- begin main content -->
-        <div class="intro">
-            <p>Phil holds a BSc and Bcom from Otago University and has been living on the West Coast for the past 8 years. He has previously been involved in the monitoring of large scale mining activities all over the ‘Coast including Stockton and the Globe Progress Mine at Reefton and was previously employed as the Compliance Team Leader at the West Coast Regional Council.</p>
-        </div>
-
-
-        <div class="space20"></div>
-        
         <!-- begin team -->
         <section>
             <div class="team-member">
@@ -47,15 +40,17 @@
                 <div class="content">
                     <h3 class="name">Phil McKinnel</h3>
                     <span class="job-title">Managing Director</span>
-                    <p>Phil specialises in all things mining and dairy and can provide invaluable advice in relation to any pending or current enforcement action that may arise as a result of your mining or dairy operations.</p>
                 </div>
-                <ul class="social-links">
-                    <li class="email"><a href="mailto:phil@rswc.co.nz" title="Email" target="_blank">Email</a></li>
-                </ul>
             </div>
             <div class="clear"></div>
         </section>
         <!-- end team -->
+        <div class="intro">
+            <p>Phil holds a BSc and Bcom from Otago University and has been living on the West Coast for the past 8 years. He has previously been involved in the monitoring of large scale mining activities all over the ‘Coast including Stockton and the Globe Progress Mine at Reefton and was previously employed as the Compliance Team Leader at the West Coast Regional Council.</p>
+        </div>
+
+        <p>Phil specialises in all things mining and dairy and can provide invaluable advice in relation to any pending or current enforcement action that may arise as a result of your mining or dairy operations, and has been successful in gaining resource consent for mining activities on behalf of Birchfield’s Ross Mining Ltd, Mont d’Or Mining Ltd, Southwest Energy Ltd as well as numerous other operators in the West Coast Region. Phil has also been involved in the consenting activities associated with the Grey River Dredge near Ngahere.</p>
+        <p>Through this experience he can provide the right advice first time to get your project moving forward.</p>
         <!-- end main content -->
     </section>
     <!-- end content -->

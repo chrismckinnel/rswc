@@ -30,7 +30,7 @@
                     <a class="button large" href="contact.php">Get in touch</a>
                     <div class="with-button">
                         <h2>Resource Management, Mining Permit and Effluent Management</h2>
-                        <p>RSWC recognises that it is important to do things right the first time to ensure a smooth process, RSWC prides itself on the quality of work provided and a high level of customer service.</p>
+                        <p>Resource Consent, Mining Permit And Access Arrangement Applications can be intimidating. Let us take the stress out of the process and cut through the red tape for you.</p>
                     </div>
                     <a class="button large mobile-button" href="http://themeforest.net/user/ixtendo/portfolio">Learn More</a>
                 </div>
@@ -43,31 +43,24 @@
                 <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src="images/slider/slides/birchfield-ross-mining.jpg" alt="Wash Plant operating by Birchfield’s Ross Mining Ltd.">
+                            <img src="images/slider/slides/birchfield-ross-mining.jpg" alt="Wash Plant operating by Birchfield's Ross Mining Ltd.">
                             <div class="flex-caption">
-                                <h2>Birchfield Ross</h2>
-                                <p>Wash Plant operating by Birchfield’s Ross Mining Ltd.</p>
+                                <h2>Birchfield's Ross</h2>
+                                <p>Operating a wash plant that is fed by a number of mining operations that were authorised with the help of RSWC.</p>
                             </div>
                         </li>
                         <li>
                             <img src="images/slider/slides/exploration.jpg" alt="Exploration activities authorised by Westland District Council Resource Consent.">
                             <div class="flex-caption">
                                 <h2>Exploration</h2>
-                                <p>Exploration activities authorised by Westland District Council Resource Consent.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <img src="images/slider/slides/gemini-table.jpg" alt="Gemini Table used for processing drill samples.">
-                            <div class="flex-caption">
-                                <h2>Gemini Table</h2>
-                                <p>Gemini Table used for processing drill samples.</p>
+                                <p>Drilling activities that are authorised under a resource consent that was gained from Westland District Council.</p>
                             </div>
                         </li>
                         <li>
                             <img src="images/slider/slides/ground-prep.jpg" alt="Ground preparation at an alluvial site on Department of Conservation Land.">
                             <div class="flex-caption">
-                                <h2>Group Preparation</h2>
-                                <p>Ground preparation at an alluvial site on Department of Conservation Land.</p>
+                                <h2>Ground Preparation</h2>
+                                <p>Vegetation removal being completed under a DOC Access Arrangement and West Coast Regional and Westland District Council Resource Consents.</p>
                             </div>
                         </li>
                     </ul>
@@ -83,25 +76,25 @@
             <!-- begin iconbox carousel -->
             <ul class="iconbox-carousel">
                 <li>
-                    <div class="iconbox computer">
+                    <div class="iconbox">
                         <h4><a href="mining.php"><span class="iconbox-icon"></span>Mining</a></h4>
                         <p>Mining Permit applications, Resource Consents, DOC Access Arrangements, Tribute Agreements</p>
                     </div>
                 </li>
                 <li>
-                    <div class="iconbox mouse">
+                    <div class="iconbox">
                         <h4><a href="dairy.php"><span class="iconbox-icon"></span>Dairy</a></h4>
                         <p>Farm Dairy Effluent Management, Water Sampling, Effluent System Design, River Protection, Land Development</p>
                     </div>
                 </li>
                 <li>
-                    <div class="iconbox applications">
+                    <div class="iconbox">
                         <h4><a href="services.php#clean-design"><span class="iconbox-icon"></span>Compliance Support</a></h4>
                         <p>Council Liaison, Environmental Management Plans, Pre Inspection Audits, Abatement and Infringement Notice Responses</p>
                     </div>
                 </li>
                 <li>
-                    <div class="iconbox cog">
+                    <div class="iconbox">
                         <h4><a href="services.php#cms-driven-websites"><span class="iconbox-icon"></span>Environmental Monitoring</a></h4>
                         <p>Flora and Fauna Assessments, Water Sampling, Incident Investigation, Annual Monitoring Reports, Annual Work Programmes.</p>
                     </div>

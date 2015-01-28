@@ -32,8 +32,8 @@
         <!-- end page header -->
 
         <!-- begin main content -->
+        <img src="images/mining/ground-prep.jpg" class="float-right mining" />
         <p>We can help you manage all aspects of your existing or proposed mining operation. This includes:</p>
-
         <ul class="check">
             <li>Prospecting, Exploration or Mining Permit Applications</li>
             <li>Landowner consultation and access negotiations</li>
@@ -45,8 +45,6 @@
             <li>Compliance Reporting and Consent Authority Liaison</li>
             <li>Tribute Agreements</li>
         </ul>
-
-        <p>Communication is important and you will be kept up to date throughout your project.</p>
 
         <p>For further information on the above services <a href="contact.php">get in touch</a>.</p>
         <!-- end main content -->
