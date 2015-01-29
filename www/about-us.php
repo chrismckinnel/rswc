@@ -5,8 +5,8 @@
 	<!-- begin meta -->
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+	<meta name="description" content="We provide resource management support and advice for Dairy Farming, Coal Mining and Gold Mining and run the entire Resource Consent process for you.">
+	<meta name="keywords" content="resource consent, dairy farming, coal mining, gold mining">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	

@@ -32,9 +32,10 @@
             <div class="one-third column-last">
                 <div class="widget contact-info">
                     <h3>Contact Info</h3>
-                    <p class="address"><strong>Address:</strong> 3 Elizabeth Street, Greymouth, West Coast, New Zealand</p>
-                    <p class="phone"><strong>Phone:</strong>+64 21 849 978</p>
-                    <p class="email"><strong>Email:</strong> <a href="mailto:phil@rswc.co.nz">phil@rswc.co.nz</a></p>
+                    <p class="address"><strong>Address:</strong>3 Elizabeth Street, Greymouth, West Coast, New Zealand</p>
+                    <p class="phone"><strong>Office:</strong> <a href="tel:+6437689978" onclick="ga('send', 'event', 'link', 'click', 'footer office phone');">03 768 9978</a></p>
+                    <p class="phone"><strong>Mobile:</strong> <a href="tel:+6421849978" onclick="ga('send', 'event', 'link', 'click', 'footer mobile phone');">021 849 978</a></p>
+                    <p class="email"><strong>Email:</strong> <a href="mailto:phil@rswc.co.nz" onclick="ga('send', 'event', 'link', 'click', 'footer email');">phil@rswc.co.nz</a></p>
                 </div>
             </div>
         </div>

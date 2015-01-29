@@ -5,8 +5,8 @@
 	<!-- begin meta -->
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+	<meta name="description" content="We provide Effluent and Environmental Management for dairy farms on the West Coast.">
+	<meta name="keywords" content="Resource consent, west coast, compliance, environmental management">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
 	

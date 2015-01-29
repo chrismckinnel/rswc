@@ -13,8 +13,9 @@
         <div class="one-half column-last">
             <!-- begin contact info -->
             <div class="contact-info">
-                <p class="phone">+64 21 849 978</p>
-                <p class="email"><a href="mailto:phil@rswc.co.nz">phil@rswc.co.nz</a></p>
+                <p class="phone"><strong>Office:</strong> <a href="tel:+6437689978" onclick="ga('send', 'event', 'link', 'click', 'header office phone');">03 768 9978</a></p>
+                <p class="phone"><strong>Mobile:</strong> <a href="tel:+6421849978" onclick="ga('send', 'event', 'link', 'click', 'header mobile phone');">021 849 978</a></p>
+                <p class="email"><a href="mailto:phil@rswc.co.nz" onclick="ga('send', 'event', 'link', 'click', 'header email');">phil@rswc.co.nz</a></p>
             </div>
             <!-- end contact info -->
         </div>

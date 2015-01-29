@@ -5,9 +5,8 @@
 	<!-- begin meta -->
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
+	<meta name="description" content="We provide resource management support and advice for Dairy Farming, Coal Mining and Gold Mining and run the entire Resource Consent process for you.">
+	<meta name="keywords" content="resource consent, dairy farming, coal mining, gold mining, effluent management, environmental monitoring">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- end meta -->
     <?php
@@ -30,9 +29,9 @@
                     <a class="button large" href="contact.php">Get in touch</a>
                     <div class="with-button">
                         <h2>Resource Management, Mining Permit and Effluent Management</h2>
-                        <p>Resource Consent, Mining Permit And Access Arrangement Applications can be intimidating. Let us take the stress out of the process and cut through the red tape for you.</p>
+                        <p>Resource Consent, Mining Permit and Access Arrangement Applications can be intimidating. Let us take the stress out of the process and cut through the red tape for you.</p>
                     </div>
-                    <a class="button large mobile-button" href="http://themeforest.net/user/ixtendo/portfolio">Learn More</a>
+                    <a class="button large mobile-button" href="services.php">Learn More</a>
                 </div>
             </div>
         </section>
@@ -42,6 +41,27 @@
             <div class="flex-container">
                 <div class="flexslider">
                     <ul class="slides">
+                        <li>
+                            <img src="images/slider/slides/gold.jpg" alt="Gold nuggets found on the West Coast.">
+                            <div class="flex-caption">
+                                <h2>Gold Fever!</h2>
+                                <p>An example of gold produced using resource consents gained by Resource Solutions West Coast.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="images/slider/slides/floating-gold-plant.jpg" alt="Floating gold plant.">
+                            <div class="flex-caption">
+                                <h2>Floating Gold Plant</h2>
+                                <p>A traditional floating gold operation developed with the help of Resource Solutions West Coast.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="images/slider/slides/mine-pit.jpg" alt="Birchfield's Ross Mining Ltd mine pit.">
+                            <div class="flex-caption">
+                                <h2>Birchfield's Ross Mining Ltd</h2>
+                                <p>Mining operation developed with the help of Phil McKinnel from Resource Solutions West Coast.</p>
+                            </div>
+                        </li>
                         <li>
                             <img src="images/slider/slides/birchfield-ross-mining.jpg" alt="Wash Plant operating by Birchfield's Ross Mining Ltd.">
                             <div class="flex-caption">
